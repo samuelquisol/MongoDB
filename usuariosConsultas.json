@@ -1,0 +1,71 @@
+[
+    {
+        "nombre" : "Santiago",
+        "apellido" : "Rodríguez",
+        "correo" : "santiago.rodriguez@gmail.com",
+        "edad" : 5    
+    },
+
+    {
+        "nombre" : "Juan",
+        "apellido" : "Morales",
+        "correo" : "juan.morales@gmail.com",
+        "edad" : 10    
+    },
+
+    {
+        "nombre" : "Santiago",
+        "apellido" : "Pérez",
+        "correo" : "santiago.perez@gmail.com",
+        "edad" : 15    
+    },
+
+    {
+        "nombre" : "Sebastian",
+        "apellido" : "Henao",
+        "correo" : "sebastian.henao@gmail.com",
+        "edad" : 20    
+    },
+
+    {
+        "nombre" : "Santiago",
+        "apellido" : "Echeverry",
+        "correo" : "santiago.echeverry@gmail.com",
+        "edad" : 25    
+    },
+
+    {
+        "nombre" : "Juliana",
+        "apellido" : "Lopera",
+        "correo" : "juliana.lopera@gmail.com",
+        "edad" : 30    
+    },
+
+    {
+        "nombre" : "Mariana",
+        "apellido" : "Cañas",
+        "correo" : "mariana.cañas@gmail.com",
+        "edad" : 35    
+    },
+
+    {
+        "nombre" : "Felipe",
+        "apellido" : "Toro",
+        "correo" : "felipe.toro@gmail.com",
+        "edad" : 40    
+    },
+
+    {
+        "nombre" : "Fernando",
+        "apellido" : "Salgado",
+        "correo" : "fernando.salgado@gmail.com",
+        "edad" : 45    
+    },
+
+    {
+        "nombre" : "Federico",
+        "apellido" : "Muñoz",
+        "correo" : "federico.munoz@gmail.com",
+        "edad" : 50    
+    }
+]
